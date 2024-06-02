@@ -16,3 +16,12 @@ e = lower_names.count("e")
 
 #storing this value in a new variable for the final answer
 first_digit = t + r + u + e
+
+#Next, let's check how many times the letters in 'love' appear
+l = lower_names.count("l")
+o = lower_names.count("o")
+v = lower_names.count("v")
+e = lower_names.count("e")
+
+#storing this value in a new variable for the final answer
+second_digit = l + o + v + e
