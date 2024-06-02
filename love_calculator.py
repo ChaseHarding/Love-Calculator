@@ -6,3 +6,4 @@ name2 = input("What is your partners name?: ")
 
 #This is where the fun begins
 combined_names = name1 + name2 
+lower_names = combined_names.lower()
