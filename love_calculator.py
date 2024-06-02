@@ -25,3 +25,6 @@ e = lower_names.count("e")
 
 #storing this value in a new variable for the final answer
 second_digit = l + o + v + e
+
+#final variable for love score
+score = int(str(first_digit) + str(second_digit))
