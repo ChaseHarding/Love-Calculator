@@ -1,0 +1,1 @@
+print("The love calculator is calculating your score...")
